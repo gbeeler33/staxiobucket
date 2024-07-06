@@ -1,2 +1,0 @@
-# staxiobucket
-My awesome repository
